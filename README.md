@@ -57,11 +57,11 @@ This is a living framework. Suggestions, critiques, and refinements are welcome 
 
 ## Contact
 
-For serious inquiries about implementation or collaboration: [your email]
+For serious inquiries about implementation or collaboration: jambeck.jay@gmail.com
 
 ## License
 
-This framework is released under Creative Commons CC BY 4.0. You may share and adapt it with attribution.
+This framework is released under Creative Commons CC BY 4.0. You may share and adapt it with attributiojan.
 
 ---
 
